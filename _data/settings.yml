@@ -1,6 +1,6 @@
 # choose a color scheme for the website
 color-scheme: bg-blue-800
-text-color-scheme: text-lime-800
+text-color-scheme: text-blue-800
 # you have these options: https://tailwindcss.com/docs/customizing-colors
 # Do not use white or lighter shades of gray since the text may not be visible
 
