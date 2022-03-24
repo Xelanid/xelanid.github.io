@@ -1,0 +1,30 @@
+title: Figs
+description: A resume theme
+
+# enabled baseurl if you are using project pages in Github or Gitlab
+#baseurl: 
+
+
+permalink: /blog/:title/
+
+include:
+  - _pages
+  - _site
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+collections:
+  works:
+    output: true
+    permalink: /works/:path/
+
+plugins:
+  - jekyll-postcss
+  - jekyll-seo-tag
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]

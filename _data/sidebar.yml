@@ -1,0 +1,18 @@
+name: Ermolenko Alexander
+image: https://avatars.githubusercontent.com/u/43672740?v=4
+designations:
+  - ML Researcher
+
+social:
+
+  - title: Github
+    link: "https://github.com/Xelanid"
+    icon: fa-github-square
+
+sidebar-links:
+  - title: Download CV
+    link: "/assets/docs/Alexander Ermolenko.pdf"
+    downloadable: true
+
+  - title: Contact me
+    link: /contact/
