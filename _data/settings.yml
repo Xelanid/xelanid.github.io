@@ -1,6 +1,6 @@
 # choose a color scheme for the website
-color-scheme: bg-blue-500
-text-color-scheme: text-blue-500
+color-scheme: bg-lime-800
+text-color-scheme: text-lime-800
 # you have these options: https://tailwindcss.com/docs/customizing-colors
 # Do not use white or lighter shades of gray since the text may not be visible
 
@@ -23,4 +23,4 @@ formspree-action: https://formspree.io/f/mdowwywy
 math: true
 
 # set this to false
-show-buy-button: true
+show-buy-button: false
