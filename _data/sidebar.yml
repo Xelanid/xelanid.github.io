@@ -7,12 +7,13 @@ social:
 
   - title: Github
     link: "https://github.com/Xelanid"
-    icon: fa-github-square
+    icon: fa-github
+    
+  - title: Telegram
+    link: "https://t.me/Xelanid"
+    icon: fa-telegram
 
 sidebar-links:
-  - title: Download CV
+  - title: Резюме
     link: "/assets/docs/Alexander Ermolenko.pdf"
     downloadable: true
-
-  - title: Contact me
-    link: /contact/
