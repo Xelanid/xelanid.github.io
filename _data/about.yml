@@ -1,5 +1,5 @@
-about-text: "Hello! I'm David, a CH based developer and it consultant"
-#details:
-# sex: Male
-#  residence: Switzerland
+about-text: "Занимаюсь машинным обучением и пишу об этом."
+details:
+ age: 21
+  residence: Сантк-Петербург
 
